@@ -1,6 +1,6 @@
-# Computer-Science-A-level-NEA-Hazelwood
+# Computer Science A-level NEA - Hazelwood
 
-A 2D exploration and quest game built in Python using Pygame. The project follows the story of Hazelwood, a quiet village with NPC interactions, quests, atmospheric ambience, and a final challenge sequence.
+A 2D pixel exploration and quest game built in Python using Pygame. The project follows the story of Hazelwood, a quiet village with NPC interactions, quests, atmospheric ambience, and a final challenge sequence.
 
 ## Overview
 

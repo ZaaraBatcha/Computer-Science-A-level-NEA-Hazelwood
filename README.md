@@ -4,7 +4,7 @@ A 2D pixel exploration and quest game built in Python using Pygame. The project 
 
 ## Overview
 
-This project was created as a Computer Science A-level NEA and focuses on:
+This project focuses on:
 
 - interactive gameplay using tile-based world exploration
 - NPC dialogue and quest progression

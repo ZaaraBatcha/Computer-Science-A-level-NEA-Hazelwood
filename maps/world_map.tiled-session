@@ -1,0 +1,50 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "item tilesheet 3.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "item tilesheet.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "npc positions.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "village_tilemap.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/zaara/OneDrive/Documents/a - nea world map",
+    "last.imagePath": "C:/Users/zaara/Downloads",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "Tiled map files (*.tmx *.xml)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 100,
+    "openFiles": [
+    ],
+    "project": "world_map.tiled-project",
+    "recentFiles": [
+        "npc positions.tsx",
+        "item tilesheet 3.tsx",
+        "item tilesheet.tsx",
+        "village_tilemap.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

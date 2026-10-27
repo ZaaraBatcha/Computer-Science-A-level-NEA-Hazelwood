@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE/editor files
+.idea/
+.vscode/
+.DS_Store
+
+# Build / packaging outputs
+build/
+dist/
+*.spec
+
+# Local temp files
+*.log
